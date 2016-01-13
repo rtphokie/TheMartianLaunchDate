@@ -5,4 +5,9 @@ Created as an exercise for the article on the science of "The Martion" for WRAL-
 2020 is rejected due to the plausability of creating the necessary technology then.  2032 doesn't work because no launch opportunities exist in that year, so 2035 is the answer.
 
 References:
-   NASA/TM—2010-216764 Interplanetary Mission Design Handbook: Earth-to-Mars Mission Opportunities 2026 to 2045 by Laura M. Burke, Robert D. Falck, and Melissa L. McGuire, NASA Glenn
+   Interplanetary Mission Design Handbook: Earth-to-Mars Mission Opportunities 2026 to 2045 
+      by Laura M. Burke, Robert D. Falck, and Melissa L. McGuire, NASA Glenn
+      NASA/TM—2010-216764 
+      http://ntrs.nasa.gov/search.jsp?R=20100037210
+   The Martian
+      by Andy Weir, speceficallly Sol1, 16 and 96 entries.
