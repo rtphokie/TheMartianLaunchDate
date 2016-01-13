@@ -1,7 +1,7 @@
 ''' Tony Rice
     created as an exercise for the WRAL.com article on the science of "The Martian"
     http://www.wral.com/-the-martian-gets-the-science-right/15228560/
-    
+
     relies heavily on the excellent astronomical calculation package PyEphem by Craig Rhodes
     http://rhodesmill.org/pyephem/
 '''
@@ -27,7 +27,7 @@ class TheMartian(object):
 
     def thanksgiving_date(self, year):
         d = holidays.US(years=year)
-        return  d.keys()[d.values().index('Thanksgiving')]
+        return d.keys()[d.values().index('Thanksgiving')]
 
     def mars_earth_dist(self, sol=0):
         earth_date = self.sol_to_earth_date(sol)
