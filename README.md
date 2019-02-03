@@ -10,4 +10,4 @@ References:
       NASA/TM—2010-216764 
       http://ntrs.nasa.gov/search.jsp?R=20100037210
    The Martian
-      by Andy Weir, speceficallly Sol1, 16 and 96 entries.
+      by Andy Weir, specifically Sol1, 16 and 96 entries.
